@@ -66,16 +66,6 @@
 
 ## 💼 Professional Experience
 
-### 📊 Data Analyst — Operations & Business Reporting
-**J&P Asset Management | Cleveland, OH, USA** *(Feb 2026 – May 2026)*
-
-- Built interactive Power BI dashboards tracking throughput, SLA compliance, backlog aging, and quality metrics — increasing leadership visibility into day-to-day operations
-- Developed standardized SQL views and reusable reporting tables to eliminate metric discrepancies across **5+ business units**, significantly improving data trust and cross-team alignment
-- Performed stage-level bottleneck analysis, recommending workflow changes that initiated a measurable cycle-time reduction across two operational teams
-- Reduced reporting errors by **~25%** through systematic data validation and reconciliation checks
-- Supported quarterly forecasting and capacity planning by analyzing historical performance trends and seasonality patterns
-
----
 
 ### 📈 Data Analyst — Product & Growth Analytics
 **Winsol Technology Services | Hyderabad, India** *(Aug 2023 – Jun 2024)*
@@ -98,15 +88,6 @@
 
 ## 📂 Featured Projects
 
-### 💰 Finance & Revenue Insights Dashboard *(2026)*
-> End-to-end revenue performance reporting tracking renewal metrics, customer health signals, and MRR/ARR trends
-
-- Automated multi-source data reconciliation between CRM and billing systems — eliminated **5+ hours of weekly manual effort**
-- Uncovered margin leakage by analysing pricing tiers, discount patterns, and deal-level data — estimated **8% improvement in revenue outcomes**
-- Delivered customer segmentation by region, product line, and customer type using SQL clustering techniques
-- **Tools:** SQL · Power BI · Excel · DAX
-
----
 
 ### 🛒 Customer Behaviour Analysis Dashboard
 > Interactive Power BI dashboard analysing purchasing patterns across product categories, age groups, and subscription segments
@@ -114,7 +95,7 @@
 - Analysed revenue and sales volume by product category and age group to identify high-value customer segments
 - Built subscription status breakdown to surface customer retention and churn risk signals
 - Enabled gender and shipping-type filtering for targeted segment-level deep dives
-- **Tools:** Power BI · DAX · SQL
+- **Tools:** Python · Jypyter · SQL · Power BI
 
 ---
 
@@ -133,7 +114,6 @@
 
 | Certificate | Issuer | Date |
 |-------------|--------|------|
-| 🔄 Microsoft Power BI Data Analyst (PL-300) | Microsoft | In Progress |
 | ✅ Google Data Analytics Professional Certificate | Google / Coursera | Completed |
 | ✅ Data Visualization and Dashboards with Excel and Cognos | IBM / Coursera | Jan 2025 |
 | ✅ Excel Basics for Data Analysis | IBM / Coursera | Jan 2025 |
@@ -141,18 +121,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MukulMadhavCheekati&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukulMadhavCheekati&layout=compact&theme=default&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukulMadhavCheekati&theme=default&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
