@@ -50,11 +50,18 @@
 
 ## 📂 Featured Projects
 
-### 📈 Project 1 — [Project Name Here]
+### 📈 Project 1 — [Customer Behaviour Analysis]
 > _Brief one-line description of the project (e.g., Sales performance analysis using Python and Tableau)_
 
-- 🔧 **Tools used:** Python, Pandas, Tableau / Power BI
-- 📌 **Key insight:** [What was the main finding or outcome?]
+- 🔧 **Tools used:** Python, Pandas,  Power BI
+- 📌 **Key insight:** [📌 Key Insights
+
+Subscription segmentation: Analysed the distribution of customers by subscription status to identify the proportion of active vs inactive subscribers — helping the business understand customer retention rates at a glance.
+Revenue by product category: Compared total purchase amounts across product categories to reveal which categories generate the highest revenue, providing clear direction for inventory and marketing investment.
+Sales volume vs revenue gap: Identified potential mismatches between product popularity (sales count) and actual revenue contribution per category — a high-volume category does not always mean high revenue.
+Age group spending patterns: Broke down both revenue and transaction volume by age group to identify the most valuable customer demographic in terms of spend and purchase frequency.
+Gender-based behaviour: Used gender as a filter dimension to uncover differences in purchasing preferences and spend levels between male and female customers across categories.
+Shipping type impact: Explored whether shipping preferences (e.g. standard vs express) correlate with purchase amounts or product categories, offering potential insights for logistics optimisation.]
 - 🔗 [View Repository](#)
 
 ---
