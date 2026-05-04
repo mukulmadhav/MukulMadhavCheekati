@@ -3,100 +3,174 @@
 
 <h3 align="center">📊 Aspiring Data Analyst | Turning raw data into actionable insights</h3>
 
+<h1 align="center">👋 Hi, I'm Mukul Madhav Cheekati</h1>
+
+<h3 align="center">Data Analyst | Turning complex datasets into decisions that matter</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MukulMadhavCheekati&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://linkedin.com/in/mukulmadhav-cheekati">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Mukulmadhav113@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MukulMadhavCheekati&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Recent graduate passionate about **data analysis and storytelling with data**
-- 🔍 I love exploring datasets, finding hidden patterns, and presenting insights that drive decisions
-- 🌱 Currently expanding my skills in **advanced SQL, Python (Pandas/NumPy), and data visualization**
-- 💼 Actively looking for **Data Analyst / Business Analyst** opportunities
-- 📍 Based in India
-- ⚡ Fun fact: I believe every dataset has a story — you just have to ask the right questions!
+- 🎓 **M.S. Business Analytics** — Trine University, Indiana, USA *(Expected May 2026, CGPA: 3.44/4.0)*
+- 💼 **2+ years of experience** across product analytics, growth analytics, and operations reporting
+- 🔍 Passionate about funnel analytics, cohort analysis, KPI dashboards, and automated reporting pipelines
+- 🛠️ Currently advancing in **Power BI (PL-300 in progress)**, advanced SQL, and Python-driven pipelines
+- 📍 Based in Cleveland, OH | Actively seeking full-time **Data Analyst / BI Analyst** roles in the USA
+- 💡 I believe the best analysis doesn't just answer questions — it helps people ask better ones
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Technical Skills
 
-### 📌 Languages & Querying
+### Languages & Querying
+![SQL](https://img.shields.io/badge/SQL%20Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Data Analysis & Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### BI & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Google Data Studio](https://img.shields.io/badge/Data%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 📦 Python Libraries
+### Python Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Databases & Cloud Platforms
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 🧰 Other Tools
+### Tools
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Analytics Domains
+`KPI Definition` `Cohort Analysis` `Funnel Analysis` `A/B Testing` `Churn Modeling`
+`Revenue Analytics` `Forecasting` `ETL Pipeline Design` `Data Modeling` `Automated Reporting`
+`Stakeholder Communication` `Data Storytelling` `Executive Presentation`
+
+---
+
+## 💼 Professional Experience
+
+### 📊 Data Analyst — Operations & Business Reporting
+**J&P Asset Management | Cleveland, OH, USA** *(Feb 2026 – May 2026)*
+
+- Built interactive Power BI dashboards tracking throughput, SLA compliance, backlog aging, and quality metrics — increasing leadership visibility into day-to-day operations
+- Developed standardized SQL views and reusable reporting tables to eliminate metric discrepancies across **5+ business units**, significantly improving data trust and cross-team alignment
+- Performed stage-level bottleneck analysis, recommending workflow changes that initiated a measurable cycle-time reduction across two operational teams
+- Reduced reporting errors by **~25%** through systematic data validation and reconciliation checks
+- Supported quarterly forecasting and capacity planning by analyzing historical performance trends and seasonality patterns
+
+---
+
+### 📈 Data Analyst — Product & Growth Analytics
+**Winsol Technology Services | Hyderabad, India** *(Aug 2023 – Jun 2024)*
+
+- Designed and maintained end-to-end KPI dashboards in Power BI and Tableau covering acquisition, activation, retention, and conversion funnels for **15+ stakeholders**
+- Engineered advanced SQL datasets using CTEs and window functions for multi-step funnel tracking and cohort analysis — contributed to a **12% lift in funnel conversion rate**
+- Automated **8+ recurring reporting workflows** using Python (Pandas) and SQL, reducing manual reporting effort by **~40%** and improving refresh reliability to near-real-time
+- Collaborated with product managers to define success metrics and measurement frameworks for **6+ product launches**
+- Built executive-ready reporting packs with trend summaries and root-cause drivers, reducing ad-hoc data requests by **30%** within two quarters
+
+---
+
+### 🍽️ Freelance Business Analyst
+**Mandi Foods Restaurant | Visakhapatnam, India** *(Jan 2023 – May 2023)*
+
+- Cleaned and organized raw financial records; built reports highlighting key spending categories, cost trends, and overspending areas
+- Delivered actionable budget insights that helped the restaurant owner identify clear cost reduction opportunities
 
 ---
 
 ## 📂 Featured Projects
 
-### 📈 Project 1 — [Customer Behaviour Analysis]
-> _Brief one-line description of the project (e.g., Sales performance analysis using Python and Tableau)_
+### 💰 Finance & Revenue Insights Dashboard *(2026)*
+> End-to-end revenue performance reporting tracking renewal metrics, customer health signals, and MRR/ARR trends
 
-- 🔧 **Tools used:** Python, Pandas,  Power BI
-- 📌 **Key insight:** [📌 Key Insights
-
-Subscription segmentation: Analysed the distribution of customers by subscription status to identify the proportion of active vs inactive subscribers — helping the business understand customer retention rates at a glance.
-Revenue by product category: Compared total purchase amounts across product categories to reveal which categories generate the highest revenue, providing clear direction for inventory and marketing investment.
-Sales volume vs revenue gap: Identified potential mismatches between product popularity (sales count) and actual revenue contribution per category — a high-volume category does not always mean high revenue.
-Age group spending patterns: Broke down both revenue and transaction volume by age group to identify the most valuable customer demographic in terms of spend and purchase frequency.
-Gender-based behaviour: Used gender as a filter dimension to uncover differences in purchasing preferences and spend levels between male and female customers across categories.
-Shipping type impact: Explored whether shipping preferences (e.g. standard vs express) correlate with purchase amounts or product categories, offering potential insights for logistics optimisation.]
-- 🔗 [View Repository](#)
+- Automated multi-source data reconciliation between CRM and billing systems — eliminated **5+ hours of weekly manual effort**
+- Uncovered margin leakage by analysing pricing tiers, discount patterns, and deal-level data — estimated **8% improvement in revenue outcomes**
+- Delivered customer segmentation by region, product line, and customer type using SQL clustering techniques
+- **Tools:** SQL · Power BI · Excel · DAX
 
 ---
 
-### 📊 Project 2 — [Project Name Here]
-> _Brief one-line description of the project (e.g., Customer churn prediction with SQL and Excel dashboard)_
+### 🛒 Customer Behaviour Analysis Dashboard
+> Interactive Power BI dashboard analysing purchasing patterns across product categories, age groups, and subscription segments
 
-- 🔧 **Tools used:** SQL, Excel, Power BI
-- 📌 **Key insight:** [What was the main finding or outcome?]
-- 🔗 [View Repository](#)
-
----
-
-
-## 📚 Currently Learning
-
-- 🐍 Advanced Python for Data Analysis (Pandas, Seaborn)
-- 🗄️ Complex SQL — window functions, CTEs, subqueries
-- 📊 Building interactive dashboards in Tableau & Power BI
-- ☁️ Basics of cloud data tools (Google BigQuery / AWS)
+- Analysed revenue and sales volume by product category and age group to identify high-value customer segments
+- Built subscription status breakdown to surface customer retention and churn risk signals
+- Enabled gender and shipping-type filtering for targeted segment-level deep dives
+- **Tools:** Power BI · DAX · SQL
 
 ---
 
-🤝 Let's Connect
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|--------|------------|------|-------|
+| M.S. Business Analytics | Trine University, Indiana, USA | Expected May 2026 | CGPA: 3.44 / 4.0 |
+| B.E. Electrical & Electronics Engineering | Andhra University, India | 2023 | 75% |
+
+**Relevant coursework:** Data Analytics · Statistical Modeling · Data Visualization · Machine Learning · Business Intelligence · Predictive Analytics · Python · SQL · Power BI · Tableau · R
+
+---
+
+## 📜 Certifications
+
+| Certificate | Issuer | Date |
+|-------------|--------|------|
+| 🔄 Microsoft Power BI Data Analyst (PL-300) | Microsoft | In Progress |
+| ✅ Google Data Analytics Professional Certificate | Google / Coursera | Completed |
+| ✅ Data Visualization and Dashboards with Excel and Cognos | IBM / Coursera | Jan 2025 |
+| ✅ Excel Basics for Data Analysis | IBM / Coursera | Jan 2025 |
+| ✅ Assessment for Data Analysis and Visualization Foundations | IBM / Coursera | Jan 2025 |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MukulMadhavCheekati&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukulMadhavCheekati&layout=compact&theme=default&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukulMadhavCheekati&theme=default&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm actively seeking full-time **Data Analyst or Business Intelligence** roles in the United States.
+
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mukulmadhav-cheekati/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQrgwZQ%2FKSeCDJYFkKqhpFQ%3D%3D" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/mukulmadhav-cheekati">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mukulmadhavssmm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/MukulMadhavCheekati" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:Mukulmadhav113@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Mukulmadhav113@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
