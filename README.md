@@ -1,7 +1,4 @@
-# MukulMadhavCheekati
-<h1 align="center">👋 Hi, I'm Mukul Madhav Cheekati</h1>
 
-<h3 align="center">📊 Aspiring Data Analyst | Turning raw data into actionable insights</h3>
 
 <h1 align="center">👋 Hi, I'm Mukul Madhav Cheekati</h1>
 
