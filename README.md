@@ -130,8 +130,8 @@ I'm actively seeking full-time **Data Analyst or Business Intelligence** roles i
   <a href="https://linkedin.com/in/mukulmadhav-cheekati">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:Mukulmadhav113@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Mukulmadhav113@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:Mukulmadhavssmm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Mukulmadhavssmm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
